@@ -1,0 +1,16 @@
+header {
+  height: 300px;
+  color: white;
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+}
+
+#logo {
+  margin: auto;
+  grid-column: 3;
+}
+
+#title {
+  font-size: 4em;
+  grid-column: 1;
+}

@@ -1,0 +1,19 @@
+.projectsWrapper {
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+  width: 100%;
+}
+
+.img {
+  height: 400px;
+  max-width: 300px;
+  margin: auto;
+  padding-top: 10px;
+}
+
+#projects {
+  text-align: center;
+  color: white;
+  font-size: 4em;
+}
